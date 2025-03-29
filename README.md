@@ -1,1 +1,1 @@
-Leaning java :) 
+Learning python, java, and starting C# 

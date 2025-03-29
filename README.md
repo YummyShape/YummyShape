@@ -1,1 +1,2 @@
-Learning python, java, and starting C# 
+I know basic python, java, and javascript 
+Learning C# 
